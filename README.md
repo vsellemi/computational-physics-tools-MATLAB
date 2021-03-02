@@ -1,2 +1,2 @@
 # Computational_Physics_MATLAB
-Computational tools for physics related problems, implemented in MATLAB
+Computational tools for problems in statistical thermodynamics and quantum mechanics, implemented in MATLAB
